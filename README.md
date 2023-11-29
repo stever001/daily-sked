@@ -5,7 +5,7 @@ The Daily Scheduler is a planner to which a user can add events. This will help 
 
 The currect date and time are shown at the top of the planner.  Color-coded one hour time time blocks for the workday (9am to 5pm) are shown to the user. The color of the block indicates wther the time sot is past, present, or future. The user can enter and event into a time block, and then save the event.  If the application is refreshed, the events entered in the planner will persist.
 
-## Daily Scheduler Sample
+## Link to Daily Scheduler Sample
 
 [scheduler demo](assets/05-third-party-apis-homework-demo.gif)
 
